@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	font-family: arial;
 }
 header{
 	background-color: #ff9933;
@@ -7,7 +8,9 @@ header{
 }
 header h1{
 	color: purple;
+	
 }
 header img{
 	border-radius: 150px;
+	border:20px;
 }
