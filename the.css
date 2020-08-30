@@ -12,5 +12,11 @@ header h1{
 }
 header img{
 	border-radius: 150px;
-	border:20px;
+	border:20px white;
+}
+main{
+	max-width: 800px;
+}
+main img{
+	max-width:100%;
 }
