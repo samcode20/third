@@ -1,3 +1,13 @@
 body{
-	background-color:orange;
+	margin: 0;
+}
+header{
+	background-color: #ff9933;
+	text-align: center;
+}
+header h1{
+	color: purple;
+}
+header img{
+	border-radius: 150px;
 }
