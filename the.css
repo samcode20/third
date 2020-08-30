@@ -16,6 +16,7 @@ header img{
 }
 main{
 	max-width: 800px;
+	text-align: center;
 }
 main img{
 	max-width:100%;
